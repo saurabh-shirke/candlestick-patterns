@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "candlestick-patterns"
+name = "candlestick_patterns"
 version = "0.0.1"
 description = "Candlestick patterns detector"
 readme = "README.md"
